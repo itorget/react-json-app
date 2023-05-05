@@ -1,0 +1,3730 @@
+[ {
+  "organisasjonsnummer" : "987056096",
+  "navn" : "BRØNNØY ARBEIDSKLÆRSENTER AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.braks.no",
+  "registreringsdatoEnhetsregisteret" : "2004-07-12",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Butikkhandel med klær",
+    "kode" : "47.710"
+  },
+  "antallAnsatte" : 9,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Industriveien 30A" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2004-06-03",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "979920946",
+  "navn" : "BRØNNØYSUND LAVPRIS AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1998-08-18",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Butikkhandel med bredt vareutvalg ellers",
+    "kode" : "47.190"
+  },
+  "antallAnsatte" : 16,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Salhusmarka 1" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1998-06-09",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "993235229",
+  "navn" : "HOT WHEELS AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2008-10-27",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Detaljhandel med biler og lette motorvogner, unntatt motorsykler",
+    "kode" : "45.112"
+  },
+  "antallAnsatte" : 5,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 23" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2008-10-07",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "974789353",
+  "navn" : "SAMARBEIDSFORUM SØR-HELGELAND",
+  "organisasjonsform" : {
+    "kode" : "ANNA",
+    "beskrivelse" : "Annen juridisk person",
+    "links" : [ ]
+  },
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8905",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "c/o Rådhuset" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-09-13",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+    "kode" : "84.130"
+  },
+  "naeringskode2" : {
+    "beskrivelse" : "Juridisk tjenesteyting",
+    "kode" : "69.100"
+  },
+  "naeringskode3" : {
+    "beskrivelse" : "Offentlig administrasjon tilknyttet helsestell, sosial virksomhet, undervisning, kirke, kultur og miljøvern",
+    "kode" : "84.120"
+  },
+  "antallAnsatte" : 11,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8904",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "c/o Rådhuset", "v/Eilif Trælnes", "Sivert Nielsens gate 24" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2005-02-11",
+  "institusjonellSektorkode" : {
+    "kode" : "6500",
+    "beskrivelse" : "Kommuneforvaltningen"
+  },
+  "registrertIForetaksregisteret" : false,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "959533547",
+  "navn" : "SOLTUN BARNEHAGE SA",
+  "organisasjonsform" : {
+    "kode" : "SA",
+    "beskrivelse" : "Samvirkeforetak",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-02-20",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Barnehager",
+    "kode" : "88.911"
+  },
+  "antallAnsatte" : 24,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Sommerslettveien 5" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1990-09-17",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "993979694",
+  "navn" : "STJERNEGRILL KARA",
+  "organisasjonsform" : {
+    "kode" : "ENK",
+    "beskrivelse" : "Enkeltpersonforetak",
+    "links" : [ ]
+  },
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8901",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 387" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "2009-04-20",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Drift av gatekjøkken",
+    "kode" : "56.102"
+  },
+  "antallAnsatte" : 6,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Schrøders Plass" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "institusjonellSektorkode" : {
+    "kode" : "8200",
+    "beskrivelse" : "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "997280377",
+  "navn" : "BRILLEHUSET BRØNNØYSUND AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.coptikk.no",
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8901",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 224" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "2011-10-10",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Butikkhandel med optiske artikler",
+    "kode" : "47.782"
+  },
+  "antallAnsatte" : 7,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Havnesenteret Brønnøysund" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2011-08-25",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "921636458",
+  "navn" : "AKVAPARTNER AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2018-10-31",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Engroshandel med maskiner og utstyr til industri ellers",
+    "kode" : "46.693"
+  },
+  "antallAnsatte" : 25,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Gårdsøyvn. 20" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2018-10-03",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "917215375",
+  "navn" : "ANDREAS STORMO",
+  "organisasjonsform" : {
+    "kode" : "ENK",
+    "beskrivelse" : "Enkeltpersonforetak",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2016-05-24",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Drosjebiltransport",
+    "kode" : "49.320"
+  },
+  "antallAnsatte" : 12,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Salhusåsen 14" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "institusjonellSektorkode" : {
+    "kode" : "8200",
+    "beskrivelse" : "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret" : false,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "998137020",
+  "navn" : "BENDIKSEN ENTREPRENØR AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.bendiksenas.no",
+  "registreringsdatoEnhetsregisteret" : "2012-03-20",
+  "registrertIMvaregisteret" : true,
+  "frivilligMvaRegistrertBeskrivelser" : [ "Utleier av bygg eller anlegg" ],
+  "naeringskode1" : {
+    "beskrivelse" : "Grunnarbeid",
+    "kode" : "43.120"
+  },
+  "antallAnsatte" : 37,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Industribakken 10" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2012-03-19",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "982703115",
+  "navn" : "BERNARD MARTINSEN ELEKTRO AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.bmelektro.no",
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8901",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 501" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "2000-11-29",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Elektrisk installasjonsarbeid",
+    "kode" : "43.210"
+  },
+  "antallAnsatte" : 15,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8906",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Åsveien 1" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2000-11-22",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "943887241",
+  "navn" : "BRÆKKANS EKSPEDISJON AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8901",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 185" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-03-12",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Spedisjon",
+    "kode" : "52.291"
+  },
+  "antallAnsatte" : 6,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Havnegata 42" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1987-01-05",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "912869377",
+  "navn" : "BRØNNØY BYGG & BOLIG AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2013-12-11",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Oppføring av bygninger",
+    "kode" : "41.200"
+  },
+  "antallAnsatte" : 20,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Svaleveien 49" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2013-12-02",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "928028127",
+  "navn" : "BRØNNØY GARTNERI AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2021-10-30",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Dyrking av ettårige vekster ellers",
+    "kode" : "01.190"
+  },
+  "antallAnsatte" : 6,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Smedvikveien 5" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2021-09-23",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "986833927",
+  "navn" : "BRØNNØY HAVN KF",
+  "organisasjonsform" : {
+    "kode" : "KF",
+    "beskrivelse" : "Kommunalt foretak",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.bronnoyhavn.no",
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8901",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 65" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "2004-05-07",
+  "registrertIMvaregisteret" : true,
+  "frivilligMvaRegistrertBeskrivelser" : [ "Utleier av bygg eller anlegg" ],
+  "naeringskode1" : {
+    "beskrivelse" : "Drift av havne- og kaianlegg",
+    "kode" : "52.221"
+  },
+  "antallAnsatte" : 6,
+  "overordnetEnhet" : "964983291",
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Havnegata 36" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2004-02-04",
+  "institusjonellSektorkode" : {
+    "kode" : "1510",
+    "beskrivelse" : "Kommunale foretak med ubegrenset ansvar"
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "976999932",
+  "navn" : "BRØNNØY KIRKELIGE FELLESRÅD",
+  "organisasjonsform" : {
+    "kode" : "KIRK",
+    "beskrivelse" : "Den norske kirke",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.brønnøy.kirk.no",
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8901",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 92" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "1997-01-27",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Religiøse organisasjoner",
+    "kode" : "94.910"
+  },
+  "antallAnsatte" : 14,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 10" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "institusjonellSektorkode" : {
+    "kode" : "6500",
+    "beskrivelse" : "Kommuneforvaltningen"
+  },
+  "registrertIForetaksregisteret" : false,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "979454945",
+  "navn" : "BRØNNØYSUND BOK OG PAPIRHANDEL AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8901",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 207" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "1997-12-15",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Butikkhandel med bøker",
+    "kode" : "47.610"
+  },
+  "antallAnsatte" : 19,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 32" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1997-12-02",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "824675112",
+  "navn" : "BRØNNØYSUND RØR AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.comfort.no",
+  "registreringsdatoEnhetsregisteret" : "1995-02-19",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Rørleggerarbeid",
+    "kode" : "43.221"
+  },
+  "antallAnsatte" : 16,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8906",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Sira Erlends vei 51" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1979-05-09",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "984373325",
+  "navn" : "BRØNNØYSUNDS AVIS AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.banett.no",
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8901",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 38" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "2002-04-09",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Utgivelse av aviser",
+    "kode" : "58.130"
+  },
+  "antallAnsatte" : 6,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 23" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2001-12-11",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "943270260",
+  "navn" : "BYGG - GROS AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.byggros.no",
+  "registreringsdatoEnhetsregisteret" : "1995-02-19",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Butikkhandel med bredt utvalg av jernvarer, fargevarer og andre byggevarer",
+    "kode" : "47.521"
+  },
+  "antallAnsatte" : 21,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Salhusmarka 3" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1987-06-03",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "960605217",
+  "navn" : "BYGG TECH SIV.ING. SVEIN EBBE NIELSEN SIV.ING. SIGBJØRN GLADSØ AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8901",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 174" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-02-20",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Byggeteknisk konsulentvirksomhet",
+    "kode" : "71.121"
+  },
+  "antallAnsatte" : 8,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 34" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1991-04-24",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "826645652",
+  "navn" : "DEN GLADE SJÅFØR AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2021-02-22",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Drosjebiltransport",
+    "kode" : "49.320"
+  },
+  "antallAnsatte" : 15,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8909",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Røysveien 6C" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2021-02-01",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "924685158",
+  "navn" : "FAGERLAND LOGISTICS AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2020-03-10",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Oppsamling og behandling av avløpsvann",
+    "kode" : "37.000"
+  },
+  "antallAnsatte" : 8,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Urstabbveien 6" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2020-03-02",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "929242076",
+  "navn" : "G.SØRENSEN AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2022-05-21",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Butikkhandel med optiske artikler",
+    "kode" : "47.782"
+  },
+  "antallAnsatte" : 6,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "c/o G Sørensen", "Storgata 73" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2022-04-20",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "820794672",
+  "navn" : "GOMA AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2018-04-26",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Drift av restauranter og kafeer",
+    "kode" : "56.101"
+  },
+  "antallAnsatte" : 20,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Havnegata 29" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2018-04-13",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "924194456",
+  "navn" : "HANDELSHUSET BRØNNØYSUND AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2019-12-13",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Butikkhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+    "kode" : "47.111"
+  },
+  "antallAnsatte" : 12,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 30" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2019-11-11",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "993048658",
+  "navn" : "HELGELAND MALERSERVICE AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2008-09-04",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Malerarbeid",
+    "kode" : "43.341"
+  },
+  "antallAnsatte" : 19,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Industriveien 40" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2008-09-03",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "866865132",
+  "navn" : "HESTØ OG KARLSENS TRANSPORT AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8901",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 399" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-02-19",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Godstransport på vei",
+    "kode" : "49.410"
+  },
+  "antallAnsatte" : 16,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Seljeholmen" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1993-06-21",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "996619982",
+  "navn" : "HILDURS URTERARIUM AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.hildurs.no",
+  "registreringsdatoEnhetsregisteret" : "2011-02-24",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Drift av restauranter og kafeer",
+    "kode" : "56.101"
+  },
+  "antallAnsatte" : 12,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8908",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Tilrem" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2011-01-12",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "912253864",
+  "navn" : "HOMMELSTØ TRELAST AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2013-07-29",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Butikkhandel med bredt utvalg av jernvarer, fargevarer og andre byggevarer",
+    "kode" : "47.521"
+  },
+  "naeringskode2" : {
+    "beskrivelse" : "Engroshandel med trelast",
+    "kode" : "46.732"
+  },
+  "antallAnsatte" : 17,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8960",
+    "poststed" : "VELFJORD",
+    "adresse" : [ "v/Arild Lien" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2013-06-12",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "925058483",
+  "navn" : "IDE MØBLER BRØNNØYSUND AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2020-05-12",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Butikkhandel med møbler",
+    "kode" : "47.591"
+  },
+  "antallAnsatte" : 9,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Sømnaveien 159" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2020-02-25",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "944991301",
+  "navn" : "KONTORFORUM AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.kontorforum.no",
+  "registreringsdatoEnhetsregisteret" : "1995-02-19",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Engroshandel med maskiner og utstyr til kontor ellers",
+    "kode" : "46.660"
+  },
+  "antallAnsatte" : 24,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Torgnesveien 1" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1987-10-26",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "991765778",
+  "navn" : "LANGFJORD MASKIN",
+  "organisasjonsform" : {
+    "kode" : "ENK",
+    "beskrivelse" : "Enkeltpersonforetak",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2007-10-18",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Oppføring av bygninger",
+    "kode" : "41.200"
+  },
+  "antallAnsatte" : 16,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8960",
+    "poststed" : "VELFJORD",
+    "adresse" : [ "Heggeveien 1" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "institusjonellSektorkode" : {
+    "kode" : "8200",
+    "beskrivelse" : "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret" : false,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "986232885",
+  "navn" : "NORDLAND TRAKTOR AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.nordlandtraktor.no",
+  "registreringsdatoEnhetsregisteret" : "2003-12-05",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Engroshandel med maskiner og utstyr til jordbruk og skogbruk",
+    "kode" : "46.610"
+  },
+  "antallAnsatte" : 8,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Industribakken 3" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2003-10-27",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "964151008",
+  "navn" : "OK KRISTOFFERSEN ENTREPRENØR AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-03-12",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Grunnarbeid",
+    "kode" : "43.120"
+  },
+  "antallAnsatte" : 35,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Smedvikveien 22" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1992-05-18",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "974760673",
+  "navn" : "REGISTERENHETEN I BRØNNØYSUND",
+  "organisasjonsform" : {
+    "kode" : "ORGL",
+    "beskrivelse" : "Organisasjonsledd",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.brreg.no",
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8910",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 900" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-08-09",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Generell offentlig administrasjon",
+    "kode" : "84.110"
+  },
+  "antallAnsatte" : 433,
+  "overordnetEnhet" : "912660680",
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Havnegata 48" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "institusjonellSektorkode" : {
+    "kode" : "6100",
+    "beskrivelse" : "Statsforvaltningen"
+  },
+  "registrertIForetaksregisteret" : false,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "948842432",
+  "navn" : "REGNSKAPSSENTRET AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-02-19",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Regnskap og bokføring",
+    "kode" : "69.201"
+  },
+  "antallAnsatte" : 7,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Havnegata 29" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1988-11-01",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "812512862",
+  "navn" : "RØRLEGGER1 AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2013-09-30",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Rørleggerarbeid",
+    "kode" : "43.221"
+  },
+  "antallAnsatte" : 9,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 23" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2013-09-30",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "950681187",
+  "navn" : "SANNA BRØNMO AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-02-19",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Butikkhandel med klær",
+    "kode" : "47.710"
+  },
+  "antallAnsatte" : 5,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 69" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1989-01-01",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "953343339",
+  "navn" : "SINUS BRØNNØYSUND AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-02-19",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Elektrisk installasjonsarbeid",
+    "kode" : "43.210"
+  },
+  "antallAnsatte" : 31,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 2" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1989-10-17",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "999540651",
+  "navn" : "SPB AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2013-01-16",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Annen spesialisert bygge- og anleggsvirksomhet",
+    "kode" : "43.990"
+  },
+  "antallAnsatte" : 7,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Husholmbukta 6B" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2013-01-11",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "911844370",
+  "navn" : "STIFTELSEN KULTURCOMPAGNIET",
+  "organisasjonsform" : {
+    "kode" : "STI",
+    "beskrivelse" : "Stiftelse",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2013-05-14",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Opplevelses-, arrangements- og aktivitetsarrangørvirksomhet",
+    "kode" : "79.903"
+  },
+  "antallAnsatte" : 5,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 61" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2013-04-13",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : false,
+  "registrertIStiftelsesregisteret" : true,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "971391758",
+  "navn" : "SYLTEREN BARNEHAGE SA",
+  "organisasjonsform" : {
+    "kode" : "SA",
+    "beskrivelse" : "Samvirkeforetak",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-02-20",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Barnehager",
+    "kode" : "88.911"
+  },
+  "antallAnsatte" : 14,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8908",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Kjølsøyveien 1" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1990-08-01",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "895957712",
+  "navn" : "SØR HELGELAND NØDSLAKTSERVICE AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2010-09-20",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Bearbeiding og konservering av kjøtt",
+    "kode" : "10.110"
+  },
+  "antallAnsatte" : 6,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8909",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Toftstranda 10" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2010-09-14",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "979444060",
+  "navn" : "SØR-HELGELAND BEDRIFTSHELSETJENESTE SA",
+  "organisasjonsform" : {
+    "kode" : "SA",
+    "beskrivelse" : "Samvirkeforetak",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.shbht.no",
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8904",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 305" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "1997-12-05",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Annen forebyggende helsetjeneste",
+    "kode" : "86.904"
+  },
+  "antallAnsatte" : 5,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8904",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Strandveien 30" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1997-11-17",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "995744333",
+  "navn" : "TELEKIOSKEN BRØNNØYSUND AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "7042",
+    "poststed" : "TRONDHEIM",
+    "adresse" : [ "Skippergata 14" ],
+    "kommune" : "TRONDHEIM",
+    "kommunenummer" : "5001"
+  },
+  "registreringsdatoEnhetsregisteret" : "2010-08-25",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Butikkhandel med telekommunikasjonsutstyr",
+    "kode" : "47.420"
+  },
+  "antallAnsatte" : 5,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "c/o Havnesenteret", "Storgata 58" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2010-06-28",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "987267828",
+  "navn" : "TORGARHAUGEN AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.torgarhaugen.no",
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8906",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "c/o Torgarhaugen AS", "Innerveien 22" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "2004-09-23",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Utleie av egen eller leid fast eiendom ellers",
+    "kode" : "68.209"
+  },
+  "antallAnsatte" : 31,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8909",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Torget" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2004-09-12",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "977552087",
+  "navn" : "TORGHATTEN AQUA AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1997-05-22",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Produksjon av yngel og settefisk i ferskvannsbasert fiskeoppdrett",
+    "kode" : "03.222"
+  },
+  "antallAnsatte" : 5,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8909",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Toftveien 80" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1997-05-10",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "912459926",
+  "navn" : "TORGHATTEN SERVICESENTER AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2013-09-18",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Rutebiltransport i by- og forstadsområde",
+    "kode" : "49.311"
+  },
+  "naeringskode2" : {
+    "beskrivelse" : "Kombinerte kontortjenester",
+    "kode" : "82.110",
+    "hjelpeenhetskode" : true
+  },
+  "antallAnsatte" : 15,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Havnegata 40" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2013-08-23",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "925609404",
+  "navn" : "VELFJORD SERVICE AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2020-09-09",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Drift av gatekjøkken",
+    "kode" : "56.102"
+  },
+  "antallAnsatte" : 19,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8960",
+    "poststed" : "VELFJORD",
+    "adresse" : [ "Hommelstø", "Rugåshylla 3" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2020-08-30",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "921993811",
+  "navn" : "VELFJORD SKOGSERVICE AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2019-01-03",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Tjenester tilknyttet skogbruk",
+    "kode" : "02.400"
+  },
+  "antallAnsatte" : 5,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8960",
+    "poststed" : "VELFJORD",
+    "adresse" : [ "c/o Inge Nepås", "Tosenveien 566" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2018-12-10",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "825700692",
+  "navn" : "VEX FRISØR BRØNNØYSUND AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2020-09-25",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Frisering og annen skjønnhetspleie",
+    "kode" : "96.020"
+  },
+  "antallAnsatte" : 5,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 58" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2020-09-11",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "914857961",
+  "navn" : "ØYVIND ELLINGSEN AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2015-01-26",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Malerarbeid",
+    "kode" : "43.341"
+  },
+  "antallAnsatte" : 13,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Svaleveien 46" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2015-01-23",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "912686884",
+  "navn" : "SNEKKER'N BRØNNØYSUND AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2013-11-06",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Oppføring av bygninger",
+    "kode" : "41.200"
+  },
+  "antallAnsatte" : 11,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Industribakken 8" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2013-10-29",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "923458557",
+  "navn" : "BRØNNØY FRIVILLIGSENTRAL",
+  "organisasjonsform" : {
+    "kode" : "FLI",
+    "beskrivelse" : "Forening/lag/innretning",
+    "links" : [ ]
+  },
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8901",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 562" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "2019-09-25",
+  "registrertIMvaregisteret" : false,
+  "antallAnsatte" : 5,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8906",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Innerveien 42" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2019-06-26",
+  "institusjonellSektorkode" : {
+    "kode" : "7000",
+    "beskrivelse" : "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret" : false,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : true,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "979112106",
+  "navn" : "BRØNNØY KALK AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1997-07-30",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Bryting av kalkstein, gips og kritt",
+    "kode" : "08.112"
+  },
+  "antallAnsatte" : 54,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8960",
+    "poststed" : "VELFJORD",
+    "adresse" : [ "Akselbergveien 11" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1997-06-01",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "917906726",
+  "navn" : "CORNER HOTELL AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-02-19",
+  "registrertIMvaregisteret" : true,
+  "frivilligMvaRegistrertBeskrivelser" : [ "Utleier av bygg eller anlegg" ],
+  "naeringskode1" : {
+    "beskrivelse" : "Drift av hoteller, pensjonater og moteller med restaurant",
+    "kode" : "55.101"
+  },
+  "antallAnsatte" : 7,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 79" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1964-10-31",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "917405085",
+  "navn" : "MILANO PIZZA OG KEBAB AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8901",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 389" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "2016-06-30",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Drift av restauranter og kafeer",
+    "kode" : "56.101"
+  },
+  "antallAnsatte" : 8,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 23" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2016-06-22",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "918003126",
+  "navn" : "NORSK HAVBRUKSSENTER AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2016-11-14",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Annen undervisning ikke nevnt annet sted",
+    "kode" : "85.599"
+  },
+  "antallAnsatte" : 27,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8909",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Toftsundet" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2016-10-18",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "967143413",
+  "navn" : "SIGLEIF MORK AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-02-20",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Butikkhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+    "kode" : "47.111"
+  },
+  "antallAnsatte" : 19,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Sømnaveien 139" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1993-06-21",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "981902149",
+  "navn" : "SYLTERN BYGG OG REHABILITERING AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2000-04-07",
+  "registrertIMvaregisteret" : true,
+  "frivilligMvaRegistrertBeskrivelser" : [ "Utleier av bygg eller anlegg" ],
+  "naeringskode1" : {
+    "beskrivelse" : "Oppføring av bygninger",
+    "kode" : "41.200"
+  },
+  "antallAnsatte" : 11,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Industriveien 34" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2000-03-20",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "971507195",
+  "navn" : "TTS BIL OG DEKKSENTER AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-03-12",
+  "registrertIMvaregisteret" : true,
+  "frivilligMvaRegistrertBeskrivelser" : [ "Utleier av bygg eller anlegg" ],
+  "naeringskode1" : {
+    "beskrivelse" : "Vedlikehold og reparasjon av motorvogner, unntatt motorsykler",
+    "kode" : "45.200"
+  },
+  "antallAnsatte" : 21,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Havnegata 40" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1994-11-25",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "996482537",
+  "navn" : "AKVAFUTURE AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.akvafuture.com",
+  "registreringsdatoEnhetsregisteret" : "2011-01-27",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Produksjon av matfisk og skalldyr i hav- og kystbasert fiskeoppdrett",
+    "kode" : "03.211"
+  },
+  "naeringskode2" : {
+    "beskrivelse" : "Industridesign, produktdesign og annen teknisk designvirksomhet",
+    "kode" : "74.101"
+  },
+  "antallAnsatte" : 61,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Salhussletta 2" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2011-01-01",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "922750203",
+  "navn" : "BJØRGAN FJELLSPRENGNING AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2019-05-14",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Annen spesialisert bygge- og anleggsvirksomhet",
+    "kode" : "43.990"
+  },
+  "antallAnsatte" : 16,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8960",
+    "poststed" : "VELFJORD",
+    "adresse" : [ "Naustvikveien 5" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2019-04-23",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "964983291",
+  "navn" : "BRØNNØY KOMMUNE",
+  "organisasjonsform" : {
+    "kode" : "KOMM",
+    "beskrivelse" : "Kommune",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.bronnoy.kommune.no/",
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8905",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Rådhuset" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-06-07",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Generell offentlig administrasjon",
+    "kode" : "84.110"
+  },
+  "antallAnsatte" : 1518,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8904",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Sivert Nielsens gate 24" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "institusjonellSektorkode" : {
+    "kode" : "6500",
+    "beskrivelse" : "Kommuneforvaltningen"
+  },
+  "registrertIForetaksregisteret" : false,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "971391529",
+  "navn" : "BRØNNØY LANDBRUKSTJENESTER SA",
+  "organisasjonsform" : {
+    "kode" : "SA",
+    "beskrivelse" : "Samvirkeforetak",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-02-20",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Tjenester tilknyttet husdyrhold",
+    "kode" : "01.620"
+  },
+  "antallAnsatte" : 119,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Gårdsøyvn. 5" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1995-02-20",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "924539488",
+  "navn" : "BRØNNØY SERVICE OG DISTRIBUSJON AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2020-02-04",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Andre post- og budtjenester",
+    "kode" : "53.200"
+  },
+  "antallAnsatte" : 16,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Ringveien 115" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2020-01-28",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "927425661",
+  "navn" : "BRØNNØY VETERINÆRKLINIKK AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2021-07-15",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Veterinærtjenester",
+    "kode" : "75.000"
+  },
+  "antallAnsatte" : 11,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Sømnaveien 147" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2021-06-25",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "998415535",
+  "navn" : "BRØNNØYSUND ELEKTRISKE AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.br-el.no",
+  "registreringsdatoEnhetsregisteret" : "2012-05-24",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Elektrisk installasjonsarbeid",
+    "kode" : "43.210"
+  },
+  "antallAnsatte" : 27,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Sømnaveien 114" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2012-05-23",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "918451080",
+  "navn" : "CAMPUS BLÅ VIDEREGÅENDE SKOLE AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2017-01-26",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Videregående opplæring innen tekniske og andre yrkesfaglige studieretninger",
+    "kode" : "85.320"
+  },
+  "antallAnsatte" : 15,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8909",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Toftveien 80" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2017-01-25",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "995458586",
+  "navn" : "FJELLSØYA BARNEHAGE AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "fjellsoya.barnehage.no",
+  "registreringsdatoEnhetsregisteret" : "2010-04-29",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Barnehager",
+    "kode" : "88.911"
+  },
+  "antallAnsatte" : 18,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8909",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Plantefeltet 1" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2010-04-08",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "984673205",
+  "navn" : "HELGELAND BYGG AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8901",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 53" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "2002-07-12",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Oppføring av bygninger",
+    "kode" : "41.200"
+  },
+  "antallAnsatte" : 18,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Industriveien 40" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2002-06-27",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "915022405",
+  "navn" : "HIMMELBLÅ KAFE AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2015-02-24",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Drift av restauranter og kafeer",
+    "kode" : "56.101"
+  },
+  "antallAnsatte" : 9,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8904",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Hovøyveien 11" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2015-02-16",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "971130229",
+  "navn" : "IVAR & TRYGVES BILVERKSTED AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-02-20",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Vedlikehold og reparasjon av motorvogner, unntatt motorsykler",
+    "kode" : "45.200"
+  },
+  "antallAnsatte" : 9,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8906",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Valveien 50" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1994-09-21",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "992119500",
+  "navn" : "KRED AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8901",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 385" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "2008-01-02",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Drift av restauranter og kafeer",
+    "kode" : "56.101"
+  },
+  "naeringskode2" : {
+    "beskrivelse" : "Tjenester tilknyttet underholdningsvirksomhet",
+    "kode" : "90.020"
+  },
+  "antallAnsatte" : 37,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 61" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2007-12-22",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "925897884",
+  "navn" : "KRESS AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2020-11-03",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Drift av restauranter og kafeer",
+    "kode" : "56.101"
+  },
+  "antallAnsatte" : 13,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8960",
+    "poststed" : "VELFJORD",
+    "adresse" : [ "c/o Roy A Strand", "Tosenveien 633" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2020-10-16",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "927890909",
+  "navn" : "LEVEN LEK OG BOWLING AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2021-10-13",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Fritidsetablissement",
+    "kode" : "93.292"
+  },
+  "antallAnsatte" : 18,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Lenningsveien 29" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2021-09-09",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "927251574",
+  "navn" : "MALERFIRMA PEDERSEN AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2021-06-11",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Snekkerarbeid",
+    "kode" : "43.320"
+  },
+  "antallAnsatte" : 7,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8906",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Bunes alle 29" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2021-06-01",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "971423927",
+  "navn" : "OLE GUNNAR HØYHOLM",
+  "organisasjonsform" : {
+    "kode" : "ENK",
+    "beskrivelse" : "Enkeltpersonforetak",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-02-20",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Drosjebiltransport",
+    "kode" : "49.320"
+  },
+  "antallAnsatte" : 10,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8904",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Kirkealleen 24" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "institusjonellSektorkode" : {
+    "kode" : "8200",
+    "beskrivelse" : "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret" : false,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "925896616",
+  "navn" : "OTAKU DINER AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2020-11-03",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Drift av restauranter og kafeer",
+    "kode" : "56.101"
+  },
+  "antallAnsatte" : 7,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8904",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Krokstien 19" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2020-10-08",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "921644205",
+  "navn" : "SBS TEKNIKK AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2018-11-01",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Tjenester tilknyttet hav- og kystbasert fiskeoppdrett",
+    "kode" : "03.213"
+  },
+  "antallAnsatte" : 22,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Industriveien 30" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2018-10-12",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "926335499",
+  "navn" : "STETIND ENTREPRENØR AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "5843",
+    "poststed" : "BERGEN",
+    "adresse" : [ "c/o Bergen Bydrift", "Postboks 144 Midtun" ],
+    "kommune" : "BERGEN",
+    "kommunenummer" : "4601"
+  },
+  "registreringsdatoEnhetsregisteret" : "2021-01-06",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Grunnarbeid",
+    "kode" : "43.120"
+  },
+  "antallAnsatte" : 32,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Industribakken 10" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2020-12-01",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "818701632",
+  "navn" : "SVANG CATERING AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2017-03-27",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Cateringvirksomhet",
+    "kode" : "56.210"
+  },
+  "antallAnsatte" : 18,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 77" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2017-02-16",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "970957758",
+  "navn" : "TD PÅ KAIA AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8901",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Postboks 124" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-03-12",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Drift av restauranter og kafeer",
+    "kode" : "56.101"
+  },
+  "antallAnsatte" : 17,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Havnegata 40" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1994-05-06",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "916819927",
+  "navn" : "TORGHATTEN AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.torghatten.no",
+  "registreringsdatoEnhetsregisteret" : "1995-02-19",
+  "registrertIMvaregisteret" : true,
+  "frivilligMvaRegistrertBeskrivelser" : [ "Utleier av bygg eller anlegg" ],
+  "naeringskode1" : {
+    "beskrivelse" : "Innenlandske kystruter med passasjerer",
+    "kode" : "50.102"
+  },
+  "naeringskode2" : {
+    "beskrivelse" : "Hovedkontortjenester",
+    "kode" : "70.100",
+    "hjelpeenhetskode" : true
+  },
+  "antallAnsatte" : 18,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Havnegata 40" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1921-11-08",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "994174339",
+  "navn" : "TORGHATTEN CAMPING & STRANDRESTAURANT AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.torghatten.net",
+  "registreringsdatoEnhetsregisteret" : "2009-06-03",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Drift av campingplasser",
+    "kode" : "55.300"
+  },
+  "antallAnsatte" : 19,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Torghatten" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2009-06-02",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "939499032",
+  "navn" : "TRIANGLE BUS AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1995-02-19",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Rutebiltransport i by- og forstadsområde",
+    "kode" : "49.311"
+  },
+  "antallAnsatte" : 248,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Havnegata 40" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1985-11-18",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "876009382",
+  "navn" : "TRUCK TEK AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1996-01-18",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Produksjon av løfte- og håndteringsutstyr ellers",
+    "kode" : "28.229"
+  },
+  "antallAnsatte" : 21,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Gårdsøyvn. 23" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "1996-01-04",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "829508192",
+  "navn" : "VISUAL360 AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2022-07-19",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Programmeringstjenester",
+    "kode" : "62.010"
+  },
+  "antallAnsatte" : 5,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8907",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Salhussletta 3" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2022-06-27",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "992170905",
+  "navn" : "ØDEGAARD ANLEGG AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2008-01-14",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Grunnarbeid",
+    "kode" : "43.120"
+  },
+  "antallAnsatte" : 9,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8909",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Hummelhaugen 2" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2008-01-10",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "915155790",
+  "navn" : "AAKA AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2015-03-23",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Butikkhandel med bredt vareutvalg ellers",
+    "kode" : "47.190"
+  },
+  "antallAnsatte" : 6,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8900",
+    "poststed" : "BRØNNØYSUND",
+    "adresse" : [ "Storgata 58" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2015-03-16",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "995773007",
+  "navn" : "A.L GRAVETEKNIKK AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2010-07-28",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Grunnarbeid",
+    "kode" : "43.120"
+  },
+  "antallAnsatte" : 10,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "8960",
+    "poststed" : "VELFJORD",
+    "adresse" : [ "Nevernesveien 84" ],
+    "kommune" : "BRØNNØY",
+    "kommunenummer" : "1813"
+  },
+  "stiftelsesdato" : "2010-07-26",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "sisteInnsendteAarsregnskap" : "2021",
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+} ]
