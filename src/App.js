@@ -1,25 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState, useEffect } from 'react';
+import axios from 'axios';
 
-function App() {
+function Enheter() {
+  const [data, setData] = useState([]);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      const result = await axios(
+        'https://github.com/itorget/react-json-app/blob/master/public/enheter.json',
+      );
+
+      setData(result.data._embedded.enheter);
+    };
+
+    fetchData();
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>Enheter i kommunen</h1>
+      <ul>
+        {data.map(item => (
+          <li key={item.organisasjonsnummer}>
+            {item.navn}
+          </li>
+        ))}
+      </ul>
     </div>
   );
 }
 
-export default App;
+export default Enheter;
